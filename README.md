@@ -15,9 +15,8 @@
 
 **Ответ на задание 1:**
 
-Скриншот успешно зарегистрированного раннера:
-
-![GitLab Runner](img/runner-registered.png)
+Скриншот зарегистрированного раннера:
+![GitLab Runner](img/runner.png)
 
 ---
 
