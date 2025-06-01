@@ -32,7 +32,7 @@
 
 Добавлен `.gitlab-ci.yml` с базовым CI/CD пайплайном:
 
-```yaml
+**C тегами**
 stages:
   - test
   - build
